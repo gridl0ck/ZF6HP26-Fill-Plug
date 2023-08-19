@@ -1,4 +1,6 @@
 # ZF6HP26-Fill-Plug
+![Fill Plug](https://github.com/gridl0ck/ZF6HP26-Fill-Plug/blob/main/dp.png)
+
 a 3D model of the fill plug for the ZF6HP26 automatic transmission
 
 # Intro
