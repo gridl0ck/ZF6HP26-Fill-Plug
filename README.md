@@ -12,3 +12,7 @@ This model came about as a way to solve the problem of filling the ZF6HP26 Trans
 # Resources
 - The Pump I used -> [Link](https://www.oreillyauto.com/detail/c/performance-tool/performance-tool-transfer-pump/pfm0/w1145?q=fluid+pump&pos=2)
 - The ZF6HP26 filter and flush guide I used -> [Link](https://bimmers.com/blog/bmw-zf-6hp-fluid-and-filter-service-guide/)
+- Other service guide - [Link](https://www.bimmerfest.com/attachments/6hp26-28_catalog-parts-fill-procedure-pdf.851393/)
+
+# Tips (W.I.P)
+- Wrap the exhaust with a thermal blanket, or some wet rags. This will help from burning your hand while trying to get the fill plug back in.
