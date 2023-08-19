@@ -4,7 +4,7 @@
 a 3D model of the fill plug for the ZF6HP26 automatic transmission
 
 # Intro
-The ZF6HP26 transmission is used in a variety of BMW, Jaguar, Ford, vehicles in the early 2000s. Specifically, this model was taken from my personal BMW 645Ci Convertible
+The ZF6HP26 transmission is used in a variety of BMW, Jaguar, Ford, vehicles in the early 2000s. Specifically, this was modeled from the plug in my personal '05 BMW 645Ci Convertible.
 
 # Purpose
 This model came about as a way to solve the problem of filling the ZF6HP26 Transmission. I found myself needing essentially a 3rd hand while doing the job. One holding the tube for the fluid pump, and 2 to operate the pump itself. With this model (and some slight modification on your end with a dremel), you can modify the hole to fit your pump tubing and not only operate the pump, but operate it from a safe distance away from the underside of the car.
